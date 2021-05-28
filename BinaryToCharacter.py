@@ -1,4 +1,4 @@
-# Name:   Cayden Lombard
+# Name:    Cayden Lombard
 # Date:    September 30, 2020
 # Purpose: Translate binary to text messages
 
